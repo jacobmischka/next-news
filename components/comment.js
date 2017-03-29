@@ -73,9 +73,9 @@ export default class Comment extends React.Component {
 
         .text :global(pre) {
           margin-bottom: 10px;
-		  max-width: 900px;
-		  overflow: auto;
-		  padding: 2px;
+          max-width: 900px;
+          overflow: auto;
+          padding: 2px;
         }
 
         .text :global(a) {
